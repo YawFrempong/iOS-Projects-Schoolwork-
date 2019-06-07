@@ -1,8 +1,8 @@
 # Tip Calculator
 
-A simple app that allows users to add, subtract, multiple, and divide 2 numbers.
+A simple app that calculates how much to tip.
 
 Main Screen:
 
-![](screenshots/3.PNG)
+![](screenshots/1.PNG)
 
