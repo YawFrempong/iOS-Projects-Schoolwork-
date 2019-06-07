@@ -1,6 +1,6 @@
 # Data Logger for Employees
 
-A simple data entry and logging system that stores a users name, email, password, and department
+A simple data entry and logging system that stores a users name, email, password, and department.
 
 Data Entry Screen:
 
