@@ -1,6 +1,6 @@
 # Filter Users
 
-A simple app that filters and sorst users based on location, gender, name and age.
+A simple app that filters and sorts users based on location, gender, name and age.
 
 Sort Option:
 
