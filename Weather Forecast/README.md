@@ -1,4 +1,4 @@
-#Weather Forecast
+# Weather Forcast
 
 A simple app that implements the OpenWeatherMap API which allows users to get the weekly weather forecast for a specific location.
 
